@@ -10,8 +10,8 @@ const Sidebar: React.FC = () => {
         <span>Sort App</span>
       </div>
       <nav>
-            <a href="#sorteador" className={styles.navLink}>
-              <button className={styles.navButton}>Sorteador</button>
+            <a href="/sorteio-simples" className={styles.navLink}>
+              <button className={styles.navButton}>Sorteio Simples</button>
             </a>
             <a href="#sorteio-instagram" className={styles.navLink}>
               <button className={styles.navButton}>Sorteio pelo Instagram</button>

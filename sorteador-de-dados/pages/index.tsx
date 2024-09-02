@@ -14,7 +14,7 @@ const Home: React.FC = () => {
         <a href="#sorteio-instagram">
         <Card icon={<FaInstagram size={60} />} text="Sorteio Pelo Instagram" variant="instagram" />
         </a>
-        <a href="#sorteador">
+        <a href="/sorteio-simples">
         <Card icon={<CiFilter size={60} />} text="Sorteio Simples" variant="simple" />
         </a>
       </div>

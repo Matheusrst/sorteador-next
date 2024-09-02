@@ -1,0 +1,32 @@
+.card {
+    background-color: rgba(33, 38, 45, 0.8); /* Cor de fundo semitransparente */
+    padding: 15px 30px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 250px;
+  }
+  
+  .label {
+    font-size: 18px;
+    color: #c9d1d9;
+    font-weight: 600;
+  }
+  
+  .input {
+    width: 50px;
+    background-color: #21262d;
+    color: #c9d1d9;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+    text-align: center;
+    font-size: 18px;
+  }
+  
+  .input:focus {
+    outline: none;
+    box-shadow: 0 0 5px #238636;
+  }
+  
